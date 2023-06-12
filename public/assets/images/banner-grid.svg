@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.44" height="176.84" viewBox="0 0 33.44 176.84">
+  <style>
+      @keyframes pulse {
+        0% {
+          -webkit-transform: scale(1);
+          transform: scale(1);
+        }
+        70% {
+          -webkit-transform: scale(3);
+          transform: scale(3);
+        }
+        100% {
+          -webkit-transform: scale(1);
+          transform: scale(1);
+        }
+      } 
+
+      @keyframes rotate {  
+        from { 
+          -webkit-transform: rotate(360deg);
+          transform: rotate(360deg); 
+        } 
+
+        to { 
+          -webkit-transform: rotate(0deg);
+          transform: rotate(0deg);
+        }  
+      } 
+
+    @-webkit-keyframes floating-up {
+      from { -webkit-transform: translate(0,  0px); transform: translate(0,  0px); }
+      65%  { -webkit-transform: translate(0, -5px); transform: translate(0, -5px); }
+      to   { -webkit-transform: translate(0, 0px); transform: translate(0, 0px); }    
+    }
+
+    @-webkit-keyframes floating-down {
+      from { -webkit-transform: translate(0,  0px); transform: translate(0,  0px); }
+      65%  { -webkit-transform: translate(0, 5px); transform: translate(0, 5px); }
+      to   { -webkit-transform: translate(0, 0px); transform: translate(0, 0px); }    
+    }
+
+    @-webkit-keyframes floating-down-12 {
+      from { -webkit-transform: translate(0,  0px); transform: translate(0,  0px); }
+      65%  { -webkit-transform: translate(0, 13px); transform: translate(0, 13px); }
+      to   { -webkit-transform: translate(0, 0px); transform: translate(0, 0px); }    
+    }
+
+    #grid-1, #grid-2, #grid-5, #grid-6, #grid-9, #grid-10 {
+      animation: 2s ease-in-out 0s infinite running floating-up;
+    }
+
+    #grid-3, #grid-4, #grid-7, #grid-8, #grid-11, #grid-12 {
+      animation: 2s ease-in-out 0s infinite running floating-down; 
+    }
+
+    #grid-13, #grid-14 {
+      animation: 2s ease-in-out 1s infinite running floating-down-12; 
+    }
+  </style>
+
+  <g id="grid" transform="translate(0.01)">
+    <g id="grid-14">
+      <path id="Path_1212" data-name="Path 1212" d="M2.22,0A2.22,2.22,0,1,1,0,2.22,2.22,2.22,0,0,1,2.22,0Z"/>
+    </g>
+    <g id="grid-13">
+      <path id="Path_1211" data-name="Path 1211" d="M2.22,0A2.22,2.22,0,1,1,0,2.22,2.22,2.22,0,0,1,2.22,0Z" transform="translate(28.98)"/>
+    </g>
+    <g id="grid-12">
+      <path id="Path_1210" data-name="Path 1210" d="M2.22,0A2.22,2.22,0,1,1,0,2.22,2.22,2.22,0,0,1,2.22,0Z" transform="translate(0 28.73)"/>
+    </g>
+    <g id="grid-11">
+      <path id="Path_1209" data-name="Path 1209" d="M2.22,0A2.22,2.22,0,1,1,0,2.22,2.22,2.22,0,0,1,2.22,0Z" transform="translate(28.98 28.73)"/>
+    </g>
+    <g id="grid-10">
+      <path id="Path_1" data-name="Path 1" d="M714.45,362a2.23,2.23,0,1,1-2.23-2.22,2.23,2.23,0,0,1,2.23,2.22Z" transform="translate(-710 -302.3)"/>
+    </g>
+    <g id="grid-9">
+      <path id="Path_2" data-name="Path 2" d="M743.43,362a2.23,2.23,0,1,1-2.22-2.22,2.23,2.23,0,0,1,2.22,2.22Z" transform="translate(-710 -302.3)"/>
+    </g>
+    <g id="grid-8">
+      <path id="Path_3" data-name="Path 3" d="M714.45,390.71a2.23,2.23,0,1,1-2.23-2.22,2.23,2.23,0,0,1,2.23,2.22Z" transform="translate(-710 -302.3)"/>
+    </g>
+    <g id="grid-7">
+      <path id="Path_4" data-name="Path 4" d="M743.43,390.71a2.23,2.23,0,1,1-2.22-2.22,2.23,2.23,0,0,1,2.22,2.22Z" transform="translate(-710 -302.3)"/>
+    </g>
+    <g id="grid-6">
+      <path id="Path_1208" data-name="Path 1208" d="M2.22,0A2.22,2.22,0,1,1,0,2.22,2.22,2.22,0,0,1,2.22,0Z" transform="translate(0 114.92)"/>
+    </g>
+    <g id="grid-5">
+      <path id="Path_1207" data-name="Path 1207" d="M2.22,0A2.22,2.22,0,1,1,0,2.22,2.22,2.22,0,0,1,2.22,0Z" transform="translate(28.98 114.92)"/>
+    </g>
+    <g id="grid-4">
+      <path id="Path_1206" data-name="Path 1206" d="M2.22,0A2.22,2.22,0,1,1,0,2.22,2.22,2.22,0,0,1,2.22,0Z" transform="translate(0 143.65)"/>
+    </g>
+    <g id="grid-3">
+      <path id="Path_1205" data-name="Path 1205" d="M2.22,0A2.22,2.22,0,1,1,0,2.22,2.22,2.22,0,0,1,2.22,0Z" transform="translate(28.98 143.65)"/>
+    </g>
+    <g id="grid-2">
+      <path id="Path_5" data-name="Path 5" d="M714.45,476.91a2.23,2.23,0,1,1-2.23-2.23,2.23,2.23,0,0,1,2.23,2.23Z" transform="translate(-710 -302.3)"/>
+    </g>
+    <g id="grid-1">
+      <path id="Path_6" data-name="Path 6" d="M743.43,476.91a2.23,2.23,0,1,1-2.22-2.23,2.23,2.23,0,0,1,2.22,2.23Z" transform="translate(-710 -302.3)"/>
+    </g>
+  </g>
+</svg>

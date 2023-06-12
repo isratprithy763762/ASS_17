@@ -1,0 +1,218 @@
+[
+    {
+        "user_id": 1,
+        "title": "Introduction to Artificial Intelligence",
+        "slug": "introduction-to-artificial-intelligence",
+        "excerpt": "Learn the basics of AI and its applications.",
+        "description": "Artificial intelligence (AI) is a branch of computer science that focuses on creating intelligent machines...",
+        "is_published": 1,
+        "min_to_read": 5
+      },
+      {
+        "user_id": 1,
+        "title": "Machine Learning Techniques",
+        "slug": "machine-learning-techniques",
+        "excerpt": "Discover popular machine learning algorithms and methodologies.",
+        "description": "Machine learning is an area of AI that enables computers to learn and make predictions or decisions without being explicitly programmed...",
+        "is_published": 1,
+        "min_to_read": 7
+      },
+      {
+        "user_id": 2,
+        "title": "Web Development Basics",
+        "slug": "web-development-basics",
+        "excerpt": "Learn the fundamentals of web development.",
+        "description": "Web development is the process of building and maintaining websites...",
+        "is_published": 1,
+        "min_to_read": 4
+      },
+      {
+        "user_id": 2,
+        "title": "Introduction to JavaScript",
+        "slug": "introduction-to-javascript",
+        "excerpt": "Discover the power of JavaScript and its role in web development.",
+        "description": "JavaScript is a programming language that allows you to add interactivity and dynamic features to websites...",
+        "is_published": 1,
+        "min_to_read": 5
+      },
+      {
+        "user_id": 3,
+        "title": "Data Science Fundamentals",
+        "slug": "data-science-fundamentals",
+        "excerpt": "Explore the essential concepts of data science.",
+        "description": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge...",
+        "is_published": 1,
+        "min_to_read": 6
+      },
+      {
+        "user_id": 3,
+        "title": "Python for Data Analysis",
+        "slug": "python-for-data-analysis",
+        "excerpt": "Learn how to use Python for data manipulation and analysis.",
+        "description": "Python is a versatile programming language commonly used in data analysis and scientific computing...",
+        "is_published": 1,
+        "min_to_read": 7
+      },
+      {
+        "user_id": 15,
+        "title": "Introduction to HTML",
+        "slug": "introduction-to-html",
+        "excerpt": "Learn the basics of HTML markup language.",
+        "description": "HTML (Hypertext Markup Language) is the standard markup language for creating web pages...",
+        "is_published": 1,
+        "min_to_read": 3
+      },
+      {
+        "user_id": 10,
+        "title": "CSS Styling Techniques",
+        "slug": "css-styling-techniques",
+        "excerpt": "Explore various CSS styling techniques for web design.",
+        "description": "CSS (Cascading Style Sheets) is a stylesheet language used to describe the presentation of a document written in HTML...",
+        "is_published": 1,
+        "min_to_read": 5
+      },
+      {
+        "user_id": 5,
+        "title": "Introduction to Python",
+        "slug": "introduction-to-python",
+        "excerpt": "Get started with Python programming language.",
+        "description": "Python is a popular high-level programming language...",
+        "is_published": 1,
+        "min_to_read": 4
+      },
+      {
+        "user_id": 8,
+        "title": "Data Visualization with Matplotlib",
+        "slug": "data-visualization-with-matplotlib",
+        "excerpt": "Learn how to create visual representations of data using Matplotlib library.",
+        "description": "Matplotlib is a powerful data visualization library...",
+        "is_published": 1,
+        "min_to_read": 6
+      },
+      {
+        "user_id": 12,
+        "title": "Introduction to SQL",
+        "slug": "introduction-to-sql",
+        "excerpt": "Learn the fundamentals of Structured Query Language (SQL).",
+        "description": "SQL is a standard language for managing and manipulating relational databases...",
+        "is_published": 1,
+        "min_to_read": 5
+      },
+      {
+        "user_id": 7,
+        "title": "Responsive Web Design",
+        "slug": "responsive-web-design",
+        "excerpt": "Design web pages that adapt to different devices and screen sizes.",
+        "description": "Responsive web design is an approach to web design that makes web pages render well on a variety of devices...",
+        "is_published": 1,
+        "min_to_read": 6
+      },
+      {
+        "user_id": 6,
+        "title": "Introduction to React",
+        "slug": "introduction-to-react",
+        "excerpt": "Learn the basics of React, a JavaScript library for building user interfaces.",
+        "description": "React is a popular library for building user interfaces...",
+        "is_published": 1,
+        "min_to_read": 5
+      },
+      {
+        "user_id": 9,
+        "title": "Python for Machine Learning",
+        "slug": "python-for-machine-learning",
+        "excerpt": "Explore how Python is used for machine learning tasks.",
+        "description": "Python provides powerful libraries and frameworks for machine learning...",
+        "is_published": 1,
+        "min_to_read": 7
+      },
+      {
+        "user_id": 14,
+        "title": "Introduction to Ruby on Rails",
+        "slug": "introduction-to-ruby-on-rails",
+        "excerpt": "Discover the Ruby on Rails framework for building web applications.",
+        "description": "Ruby on Rails is a popular web development framework...",
+        "is_published": 1,
+        "min_to_read": 6
+      },
+      {
+        "user_id": 11,
+        "title": "Introduction to Data Structures",
+        "slug": "introduction-to-data-structures",
+        "excerpt": "Learn about common data structures used in programming.",
+        "description": "Data structures are fundamental building blocks for organizing and storing data...",
+        "is_published": 1,
+        "min_to_read": 5
+    },
+    {
+        "user_id": 20,
+        "title": "Introduction to Java",
+        "slug": "introduction-to-java",
+        "excerpt": "Learn the basics of Java programming language.",
+        "description": "Java is a widely used programming language...",
+        "is_published": 1,
+        "min_to_read": 6
+      },
+      {
+        "user_id": 21,
+        "title": "Mobile App Development with Flutter",
+        "slug": "mobile-app-development-with-flutter",
+        "excerpt": "Build cross-platform mobile apps using the Flutter framework.",
+        "description": "Flutter is a UI toolkit for building natively compiled applications...",
+        "is_published": 1,
+        "min_to_read": 7
+      },
+      {
+        "user_id": 22,
+        "title": "Introduction to C#",
+        "slug": "introduction-to-c-sharp",
+        "excerpt": "Get started with the C# programming language.",
+        "description": "C# is a modern, object-oriented programming language...",
+        "is_published": 1,
+        "min_to_read": 5
+      },
+      {
+        "user_id": 23,
+        "title": "Backend Development with Node.js",
+        "slug": "backend-development-with-nodejs",
+        "excerpt": "Learn how to build server-side applications using Node.js.",
+        "description": "Node.js is a JavaScript runtime that allows you to build scalable and high-performance applications...",
+        "is_published": 1,
+        "min_to_read": 6
+      },
+      {
+        "user_id": 24,
+        "title": "Introduction to Kotlin",
+        "slug": "introduction-to-kotlin",
+        "excerpt": "Discover the Kotlin programming language.",
+        "description": "Kotlin is a statically typed programming language that runs on the Java Virtual Machine...",
+        "is_published": 1,
+        "min_to_read": 5
+      },
+      {
+        "user_id": 25,
+        "title": "Frontend Development with Vue.js",
+        "slug": "frontend-development-with-vuejs",
+        "excerpt": "Build interactive user interfaces using Vue.js framework.",
+        "description": "Vue.js is a progressive JavaScript framework for building user interfaces...",
+        "is_published": 1,
+        "min_to_read": 6
+      },
+      {
+        "user_id": 26,
+        "title": "Introduction to Swift",
+        "slug": "introduction-to-swift",
+        "excerpt": "Learn the basics of Swift programming language.",
+        "description": "Swift is a powerful and intuitive programming language for iOS, macOS, watchOS, and tvOS...",
+        "is_published": 1,
+        "min_to_read": 5
+      },
+      {
+        "user_id": 27,
+        "title": "Full-Stack Web Development",
+        "slug": "full-stack-web-development",
+        "excerpt": "Become proficient in both frontend and backend web development.",
+        "description": "Full-stack web development involves working with both the client-side and server-side of web applications...",
+        "is_published": 1,
+        "min_to_read": 7
+    }
+]
